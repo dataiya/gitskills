@@ -1,2 +1,3 @@
 git is a quick system
+git is a simple ststem
 
